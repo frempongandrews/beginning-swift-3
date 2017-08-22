@@ -1,11 +1,17 @@
-//: Playground - noun: a place where people can play
+//: [Previous](@previous)
+
+import Foundation
+
+var str = "Hello, playground"
+
+//: [Next](@next)
 
 import UIKit
 
 
 ////////////////////=======> Switch Statements  <========///////////////////
 
-//contrary to ther languages, when a condition is met, the switch exits. 
+//contrary to ther languages, when a condition is met, the switch exits.
 //To allow code to go through each case, use "fallthrough" keyword
 
 var north = 0
@@ -26,6 +32,3 @@ case west:
 default:
     print("you walked north")
 }
-
-
-
