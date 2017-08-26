@@ -1,1 +1,1 @@
-Learning swift 3 from weheartswift.com tutorials
+Learning swift 3 from ray wunderlich and weheartswift.com tutorials

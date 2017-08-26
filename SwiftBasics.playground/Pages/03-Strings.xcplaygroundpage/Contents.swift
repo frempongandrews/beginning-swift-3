@@ -2,6 +2,9 @@
 
 import Foundation
 
+
+
+//: [Next](@next)
 //: [Next](@next)
 //: Playground - noun: a place where people can play
 
@@ -59,9 +62,9 @@ name.isEmpty
 
 //==========> Looping over a string
 
-var str = "This string has 29 characters"
+var string = "This string has 29 characters"
 
-for character in str.characters {
+for character in string.characters {
     
     var characterAsString = "\(character)"
     
@@ -116,7 +119,7 @@ for letter in aString.characters {
 
 //==========> Getting length of string
 
-var length = str.characters.count
+var length = aString.characters.count
 //print(length)
 
 //----------------------------------------------------------------------------------------
